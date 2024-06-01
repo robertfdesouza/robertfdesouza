@@ -6,7 +6,7 @@
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 # Quem sou eu?
-Me chamo Robert Fernandes, tenho 39 anos, sou Analista de Suporte de TI e estou migrando de carreira. Como todo aquariano que se preze sou apaixonado por Tecnologia. Um Mineiro de Muriaé - MG residente em Brasília - DF que morre de amores pelo Rio de Janeiro - RJ e toda a sua boemia. Amo o Samba e a música Brasileiro, sou aprendiz de Cavaquinho. Tenho como meta de vida me consolidar na nova carreira superando os desafios do dia a dia com muita dedicação e esforço.
+Me chamo Robert Fernandes, tenho 39 anos, sou Analista de Suporte de TI e estou migrando de carreira para desenvolvedor Back-end. Como todo aquariano que se preze sou apaixonado por Tecnologia. Um Mineiro de Muriaé - MG residente em Brasília - DF que morre de amores pelo Rio de Janeiro - RJ e toda a sua boemia. Amo o Samba e a música Brasileiro, sou aprendiz de Cavaquinho. Tenho como meta de vida me consolidar na nova carreira superando os desafios do dia a dia com muita dedicação e esforço.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/robertfde_souza/)
